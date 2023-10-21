@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 8px;
+}
+
+
+
+
+.classDone{
+  text-decoration: line-through;
+  color: green !important;
+  
+  }
+  .item{
+    margin:  20px 0;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    color: red;
+    font-size: 24px;
+  }
+  
